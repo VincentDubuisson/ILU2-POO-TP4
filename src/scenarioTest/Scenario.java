@@ -1,7 +1,8 @@
 package scenarioTest;
 
 import personnages.Gaulois;
-import villagegaulois.Etal;
+import villagegauloisold.Etal;
+import villagegauloisold.IEtal;
 
 public class Scenario {
 
@@ -10,6 +11,8 @@ public class Scenario {
 		// TODO Partie 4 : creer de la classe anonyme Village
 
 		// fin
+		
+		/*
 
 		Gaulois ordralfabetix = new Gaulois("Ordralfabétix", 9);
 		Gaulois obelix = new Gaulois("Obélix", 20);
@@ -43,6 +46,8 @@ public class Scenario {
 		}
 
 		System.out.println(village);
+		
+		*/
 
 	}
 
